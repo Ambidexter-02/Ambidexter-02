@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ambidexter-02
 - 👀 I’m interested in coding,analysing and working on data.
-- 🌱 I’m currently learning data science.
+- 🌱 Certified data analyst.
 - 💞️ I’m looking to collaborate on various EDA projects and machine learning projects with various data scientists and developers.
 - 📫 How to reach me on Github at ambidexter 02,abhishek purohit on linkdIn
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
